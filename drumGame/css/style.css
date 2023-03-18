@@ -1,0 +1,21 @@
+.back{
+    
+    height: 400px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+}
+
+.qr-code{
+    width: 250px;
+    height: 250px;
+    border-radius: 14px;
+}
+
+.qr_code_back{
+    border-color: rgb(130, 24, 24);
+    height: 275px;
+    width: 394px;
+    display: flex;
+    justify-content: center;
+}
